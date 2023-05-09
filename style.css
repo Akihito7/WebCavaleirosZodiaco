@@ -54,10 +54,10 @@ li:hover{
 main{
     width: 100vw;
     height: 90vh;
-    background-image: url('imagens/background.jpg');
+    background-image: url('./imagens/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center -180px;
+    background-position: center -100px;
     overflow-y: auto;
 }
 .mainPage{
